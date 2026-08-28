@@ -1,0 +1,76 @@
+SUMBER: Ringkasan regulasi periklanan Indonesia (untuk keperluan riset akademik, diparafrase dari sumber resmi)
+
+=== LAPIS 1: ETIKA PARIWARA INDONESIA (EPI) AMANDEMEN 2020 ===
+[BERLAKU UNTUK SEMUA KATEGORI PRODUK/JASA — dikeluarkan Dewan Periklanan Indonesia]
+
+PRINSIP UMUM (berlaku semua kategori):
+Setiap iklan wajib menjunjung kejujuran, tanggung jawab sosial, kesopanan, dan
+perlindungan terhadap kelompok rentan (anak-anak, perempuan). Iklan tidak boleh
+merendahkan produk/brand pesaing secara langsung maupun tidak langsung. Iklan
+tidak boleh memicu rasa takut atau cemas berlebihan pada audiens demi mendorong
+pembelian.
+
+ATURAN KLAIM SUPERLATIF (semua kategori):
+Kata-kata seperti "100%", "murni", "asli", "paling", "nomor satu" untuk menyatakan
+kandungan/kadar/mutu HARUS dapat dibuktikan dengan pernyataan tertulis dari
+otoritas/sumber otentik. Tanpa bukti, klaim ini melanggar prinsip kejujuran EPI.
+
+ATURAN KATA "HALAL" (relevan kategori makanan/kuliner, kosmetik, farmasi):
+Kata "halal" HANYA boleh dipakai dalam iklan jika produk sudah memiliki
+sertifikat resmi dari MUI atau lembaga berwenang. Prinsipnya, kata "halal" tidak
+untuk sekadar diiklankan bebas — harus berupa pencantuman logo halal resmi untuk
+produk yang benar-benar sudah bersertifikat.
+
+ATURAN VISUAL/FOTOGRAFI (relevan kategori fashion, kecantikan):
+Sudut pengambilan gambar tidak boleh secara tidak etis mengeksploitasi bagian
+tubuh tertentu (terutama tubuh perempuan) semata untuk menarik perhatian di luar
+konteks produk yang diiklankan.
+
+ATURAN PERBANDINGAN KOMPETITOR (semua kategori):
+Iklan yang membandingkan dengan produk pesaing tidak boleh dilakukan dengan cara
+merendahkan atau menjelekkan, baik implisit maupun eksplisit.
+
+KATEGORI IKLAN DENGAN ATURAN KHUSUS TAMBAHAN DI EPI:
+Minuman keras, rokok & produk tembakau, obat-obatan, produk pangan, vitamin/
+mineral/suplemen, produk peningkat kemampuan seksual, kosmetika & produk
+perawatan tubuh — masing-masing punya ketentuan tambahan lebih ketat.
+
+=== LAPIS 2: PERATURAN BPOM NO. 18/2024 (KHUSUS KATEGORI KOSMETIK) ===
+[BERLAKU KHUSUS untuk produk skincare/kosmetik/perawatan tubuh]
+
+3 PRINSIP UTAMA (resmi dari siaran pers BPOM):
+1. OBJEKTIF — klaim harus sesuai fakta dan manfaat produk yang sebenarnya
+2. LENGKAP — informasi tidak boleh dikurangi/disembunyikan
+3. TIDAK MENYESATKAN — tidak boleh menyerupai klaim obat atau klaim pencegahan
+   penyakit
+
+LARANGAN SPESIFIK KOSMETIK:
+- Klaim waktu instan ("glowing 3 hari", "hilang semalam") tanpa bukti uji klinis
+  terdaftar BPOM — kategori pelanggaran: klaim di luar fungsi produk
+- Klaim medis/pengobatan ("menyembuhkan jerawat", "mengobati") — ranah obat,
+  bukan kosmetik
+- Klaim mengubah fungsi/bentuk tubuh sensitif tanpa dasar hukum & uji klinis
+- Penggunaan atribut profesi kesehatan (aktor berpakaian dokter/perawat) dalam
+  iklan untuk endorse produk — dilarang eksplisit oleh BPOM
+- Kata "ampuh", "terbukti ilmiah", "100% aman" tanpa data uji yang bisa
+  diverifikasi
+
+DATA RESMI TERBARU (BPOM, siaran pers 2025):
+Persentase iklan kosmetik yang melanggar ketentuan meningkat dari 21,63% (2023)
+menjadi 26,12% (2024). Sanksi administratif bisa berupa pengumuman pelanggaran
+ke publik, hingga pencabutan izin edar untuk pelanggaran berat.
+
+=== LAPIS 3: UU PERLINDUNGAN KONSUMEN NO. 8/1999 (PAYUNG HUKUM UMUM) ===
+[BERLAKU UNTUK SEMUA KATEGORI PRODUK/JASA — dasar hukum tertinggi]
+
+Pelaku usaha dilarang memproduksi/memperdagangkan barang dan jasa dengan
+informasi yang tidak benar, tidak akurat, atau menyesatkan mengenai kondisi,
+manfaat, kegunaan, atau kualitas barang/jasa. Iklan yang mengandung informasi
+keliru atau menyesatkan konsumen dapat dikenai sanksi administratif maupun
+pidana sesuai undang-undang ini, berlaku lintas sektor tanpa terkecuali.
+
+=== PANDUAN PEMAKAIAN UNTUK COMPLIANCE AGENT ===
+- Kategori skincare/kosmetik/perawatan tubuh -> cek LAPIS 2 (BPOM) + LAPIS 1 (EPI) + LAPIS 3
+- Kategori makanan/kuliner -> cek LAPIS 1 (EPI, terutama aturan "halal") + LAPIS 3
+- Kategori fashion -> cek LAPIS 1 (EPI, terutama aturan visual/fotografi & superlatif) + LAPIS 3
+- Kategori lain di luar ketiganya -> cek LAPIS 1 (prinsip umum EPI) + LAPIS 3 sebagai baseline minimum

@@ -1,0 +1,47 @@
+# =========================
+# Secrets / credentials
+# =========================
+.env
+.env.*
+!.env.example
+
+.streamlit/secrets.toml
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# =========================
+# Virtual environment
+# =========================
+venv/
+.venv/
+env/
+
+# =========================
+# Logs
+# =========================
+*.log
+*_log.json
+*.log.json
+.groq_rate_log.jsonl
+
+# =========================
+# Local databases / vector stores
+# =========================
+chroma_db/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/

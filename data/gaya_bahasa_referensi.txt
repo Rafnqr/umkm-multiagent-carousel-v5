@@ -1,0 +1,32 @@
+SUMBER: Panduan referensi gaya bahasa per tone & platform (untuk Localization agent)
+
+TONE: FRIENDLY/HANGAT
+Ciri: menyapa seperti teman, kata "kamu", hangat tanpa berlebihan, suportif.
+Contoh pola: "Kulitmu pengen keliatan seger terus? Ini cocok buat rutinitasmu."
+Cocok untuk: brand yang ingin dekat secara personal, kategori kesehatan/self-care.
+
+TONE: PLAYFUL/GEN Z
+Ciri: santai, boleh singkatan/bahasa gaul, humor ringan, emoji secukupnya.
+Contoh pola: "Skin goals: glowing tapi tetep aman, ga pake drama klaim lebay."
+Cocok untuk: brand fashion/lifestyle dengan target usia 18-25.
+
+TONE: PROFESIONAL/FORMAL
+Ciri: bahasa baku, informatif, minim emoji, fokus pada fakta produk.
+Contoh pola: "Diformulasikan untuk mendukung kebutuhan perawatan kulit harian Anda."
+Cocok untuk: brand premium/profesional, target audiens korporat/dewasa.
+
+TONE: HANGAT-TRADISIONAL/OTENTIK
+Ciri: nuansa personal seperti cerita keluarga, menonjolkan keaslian/tradisi.
+Contoh pola: "Dari dapur kami untuk keluarga Anda, resep yang dijaga turun-temurun."
+Cocok untuk: brand kuliner/UMKM tradisional.
+
+PENYESUAIAN PER PLATFORM:
+- Instagram: caption bisa lebih panjang (3-5 kalimat), boleh storytelling.
+- TikTok: caption pendek, to-the-point, hook di kalimat pertama sangat penting.
+- Shopee/marketplace: fokus ke fitur & keyword pencarian, minim gaya bahasa
+  kreatif berlebihan karena fungsinya lebih ke deskripsi produk.
+
+PRINSIP PENTING UNTUK LOCALIZATION AGENT:
+Localization HANYA mengubah gaya penyampaian (kata, nada, panjang kalimat)
+sesuai tone dan platform yang diminta. TIDAK BOLEH menambah, mengurangi, atau
+mengubah substansi klaim yang sudah disetujui Compliance Agent.
