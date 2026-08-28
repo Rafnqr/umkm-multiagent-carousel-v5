@@ -5,29 +5,6 @@ Proyek UAS ST167 — Proyek Data Mining. Sistem multi-agent LLM **kolaboratif**
 marketing yang persuasif, patuh regulasi lintas-sektor, dan efektif — untuk
 UMKM dari bidang usaha apapun (skincare, fashion, kuliner, dll).
 
-## Struktur Proyek
-
-```
-umkm-multiagent/
-├── app.py                        # Dashboard Streamlit (entry point utama)
-├── requirements.txt
-├── data/                          # Korpus RAG - HANYA untuk Compliance & Localization
-│   ├── regulasi_periklanan.txt    # EPI (universal) + BPOM (kosmetik) + UU PK - RAG statis
-│   └── gaya_bahasa_referensi.txt  # Referensi tone, BUKAN data per-klien tetap - RAG statis
-└── src/
-    ├── config.py                 # Konstanta (MAX_ROUNDS, ambang skor, dst)
-    ├── rule_engine.py             # Deteksi regex/keyword klaim terlarang
-    ├── parsing_utils.py           # Ekstraksi field terstruktur dari respons LLM
-    ├── vectorstore.py             # Setup Chroma + embedding via LangChain (compliance & localization saja)
-    ├── llm_client.py              # Wrapper LLM via LangChain (Groq default)
-    ├── tools/
-    │   └── tavily_search.py       # Wrapper Tavily live search (Trend, Effectiveness, tambahan Compliance)
-    ├── agents.py                  # 5 agent, prompt terstruktur, kolaboratif
-    ├── orchestrator.py            # Alur diskusi kolaboratif + routing cerdas
-    ├── ragas_eval.py              # Evaluasi gaya-RAGAS (4 metrik)
-    └── ragas_eval_dataset.py      # Dataset kecil untuk context precision/recall
-```
-
 **Framework:** LangChain (soal 3). **Compliance:** Rule Engine (regex) + LLM,
 bukan LLM murni — supaya hasil konsisten. **Alur:** kolaboratif, bukan pipeline
 linier — Trend Agent aktif di tiap putaran, orchestrator mengambil keputusan
@@ -75,3 +52,10 @@ streamlit run app.py
 ```
 ### 3. Coba
 https://umkm-multiagent-carousel.streamlit.app/
+### jika muncul error ini, pilih reboot
+This app has gone over its resource limits.
+It's using too much memory! A few possible solutions:
+Upgrade the Streamlit version of this app to the latest release.
+Follow these tips to make the app use less memory.
+Reboot the app to clear the memory. The app might go over its resource limits again, though!
+Fill out this form if you have a good-for-the-world use case and need more resources.
