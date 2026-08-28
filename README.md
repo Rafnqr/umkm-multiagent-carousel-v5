@@ -73,10 +73,3 @@ source venv/Scripts/activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Deploy ke Streamlit Community Cloud
-
-1. Push ke GitHub
-2. https://share.streamlit.io → New app → pilih repo, main file: `app.py`
-3. Advanced settings → Secrets → isi `GROQ_API_KEY = "..."` dan `TAVILY_API_KEY = "..."`
-4. Deploy → dapat URL publik (`nama-app.streamlit.app`)
